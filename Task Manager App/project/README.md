@@ -23,7 +23,7 @@ A mobile task management application built with Flutter that allows users to man
 
 1. Clone this repository:
 ```
-git clone https://github.com/yourusername/task_manager.git
+git clone https://github.com/MhiretKiros/task_manager.git
 ```
 
 2. Navigate to the project directory:
